@@ -54,9 +54,9 @@ datadrivencv::build_network_logo(CV$entries_data)
 
 ```{r}
 if(params$pdf_mode){
-  cat("Veja meu currículo online _https://github.com/nextmarte/Marcus_Ramalho_CV.github.io/_")
+  cat("Veja meu currículo online https://nextmarte.github.io/curriculo/")
 } else {
-  cat("[<i class='fas fa-download'></i> Baixar versão PDF](https://github.com/nextmarte/curriculo/raw/master/Marcus_Ramalho_strayer_cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Baixar versão PDF](https://raw.githubusercontent.com/nextmarte/curriculo/aac878d21c76dc0d2045b62a8ea0f24002ee56e0/cv.pdf)")
 }
 ```
 

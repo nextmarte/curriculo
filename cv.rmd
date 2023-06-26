@@ -84,7 +84,7 @@ Disclaimer {#disclaimer}
 
 Feito com o pacote [**pagedown**](https://github.com/rstudio/pagedown). 
 
-O código fonte está disponível em [on github.com/nstrayer/cv](https://github.com/nextmarte/curriculo).
+O código está disponível em [https://github.com/nextmarte/curriculo](https://github.com/nextmarte/curriculo).
 
 Último update `r Sys.Date()`.
 
